@@ -1,0 +1,179 @@
+{
+    "skills": [
+            {
+                "id": 1,
+                "picture": "https://i.postimg.cc/xdjQYvb5/icons8-html5-100.png",
+                "title": "HTLM5"
+            },
+            {
+                "id": 2,
+                "picture": "https://i.postimg.cc/76fyJq9T/icons8-css3-100.png",
+                "title": "CSS3"
+            },
+            {
+                "id": 3,
+                "picture": "https://i.postimg.cc/c1tSs46p/icons8-github-100.png",
+                "title": "Github"
+            },
+            {
+                "id": 4,
+                "picture": "https://i.postimg.cc/HkpR7pss/icons8-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-sta.png",
+                "title": "Netlify"
+            },
+            {
+                "id": 5,
+                "picture": "https://i.postimg.cc/d32NLfby/icons8-bootstrap-144.png",
+                "title": "Bootstrap"
+            },
+            {
+                "id": 6,
+                "picture": "https://i.postimg.cc/NjMbcLjT/icons8-javascript-144.png",
+                "title": "JavaScript"
+            },
+            {
+                "id": 7,
+                "picture": "https://i.postimg.cc/V6zWwQ9B/icons8-vue-js-240.png",
+                "title": "Vue.js"
+            }
+    ],
+    "education": [
+       { 
+        "id": 1,
+       "year": 2023,
+       "description": "I am currently studying coding at Life Choice Academy",
+      " place": "Life Choice Academy",
+       "type": "certificate",
+       "certificate": ""
+   },
+   {
+       "id": 2,
+       "year": "2020-2022",
+       "description": "I went to university to study Biotechnology and dropped out",
+      " place": "Cape Peninsula University of Technology",
+       "type": "Certificate",
+       "certificate": ""
+   },
+   {
+       "id": 3,
+       "year": 2019,
+       "description": "I went to go learn at iStudent Academy and gotten a certificate for I.T Engineering 1 day workshop",
+       "place": "iStudent Academy",
+       "type": "Certificate",
+       "certificate": ""
+   },
+   {
+       "id": 4,
+       "year": 2019,
+       "description": "I matriculated from high school with a bachelor pass",
+       "place": "Tshwane University of Technology",
+       "type": "Certificate",
+       "certificate": ""
+   },
+   {
+       "id": 5,
+       "year": 2017,
+       "description": "My homeroom teacher rewarded me with certificates for working hard every term",
+       "place": "Spine Road High",
+       "type": "Certificate",
+       "certificate": ""
+   },
+   {
+       "id": 6,
+       "year": 2015,
+       "description": "During the start of my High School, I attended a Numeric Math Programme and was giving multiple certificates",
+       "place": "Spine Road High",
+       "type": "Certificate",
+       "certificate": ""
+   },
+   {
+       "id": 7,
+       "year": 2014,
+       "description": "During Primary School i was given a chess player certificate",
+       "place": "Meadowridge Primary School",
+       "type": "Certificate",
+       "certificate": ""
+   }
+    ],
+    "projects": [
+          {
+            "id": 1,
+            "background":"",
+            "githublink":"",
+            "netlifylink":"",
+            "title":""
+          },
+          {
+            "id": 2,
+            "background":"",
+            "githublink":"",
+            "netlifylink":"",
+            "title":""
+          },
+          {
+            "id": 3,
+            "background":"",
+            "githublink":"",
+            "netlifylink":"",
+            "title":""
+          },
+          {
+            "id": 4,
+            "background":"",
+            "githublink":"",
+            "netlifylink":"",
+            "title":""
+          },
+          {
+            "id": 5,
+            "background":"",
+            "githublink":"",
+            "netlifylink":"",
+            "title":""
+          },
+          {
+            "id": 6,
+            "background":"",
+            "githublink":"",
+            "netlifylink":"",
+            "title":""
+          }
+    ],
+     "testimonials": [
+           {
+            "id": 1,
+            "profile":"https://i.postimg.cc/7h0yrP5d/Codi-Kader-pfp.jpg",
+            "name": "Codi Kader",
+            "statement": "Masood Basardien, He is a very determined, passionate and kind young man. He is going to do great things in the IT sector. You can count on that. Masood strives his best to make sure that all his deadlines & work is done as soon as possible and correctly as possible. He works really well in a group or alone. He is able to adapt in any environment he is placed in. Once you get to know he you feel a sense of belonging as he is able to welcome you in with a warm and kind energy.Masood has a bubbly personality. This is a great addition to any workplace or business. He is really strong in HTML & CSS. When working in a team everyone always asks he for help and he is always willing to help which is a great perk to have when working with a team."
+           },
+           {
+            "id": 2,
+            "profile":"https://i.postimg.cc/pLDM6LwF/Mogammad-Damon-pfp.jpg",
+            "name": "Mogammad Imtiyaaz Damon",
+            "statement":"Masood is a kind person with a great sense of humour. He is a great friend and he is very intelligent."
+           },
+           {
+            "id": 3,
+            "profile":"https://i.postimg.cc/hvDWNMzZ/C11-Uzukhanye-Dywili-4.jpg",
+            "name": "Uzukhanye Dywili",
+            "statement":"Working with Masood Basardien was an incredible experience. Their professionalism, attention to detail, and communication skills made the entire process seamless. They consistently exceeded my expectations and delivered exceptional results. I would highly recommend Masood Basardien to anyone looking for a talented and dedicated professional."
+           },
+           {
+            "id": 4,
+            "profile":"https://i.postimg.cc/W4yPWMSj/Taflynne-Summer-Petersen-pfp.jpg",
+            "name": "Taflynne Summer Petersen",
+            "statement":"Masood Basardien is a good person to work with, he thinks for himself and ask help when needed only. He is good at putting two and two together , works well in a group setting and very helpful. He is an asset to any company or field he persues."
+           },
+           {
+            "id": 5,
+            "profile":"https://i.postimg.cc/4NSDd9gt/Eighton-Lee-Paulse-pfp.jpg",
+            "name": "Eighton Lee Paulse",
+            "statement":"Masood Basardien is a very positive individual. He often tries his best to help with work and does his part in everything the way he needs to do. He is very reliable and friendly and works well in groups. My experience working with him was great. I would definitely recommend him."
+           },
+           {
+            "id": 6,
+            "profile":"",
+            "name": "",
+            "statement":""
+           }
+     ]
+}
