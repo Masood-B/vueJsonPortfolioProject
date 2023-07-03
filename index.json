@@ -1,5 +1,5 @@
 {
-    "skills": [
+    "Skills": [
             {
                 "id": 1,
                 "picture": "https://i.postimg.cc/xdjQYvb5/icons8-html5-100.png",
@@ -36,7 +36,7 @@
                 "title": "Vue.js"
             }
     ],
-    "education": [
+    "Education": [
        { 
         "id": 1,
        "year": 2023,
@@ -94,7 +94,7 @@
        "certificate": ""
    }
     ],
-    "projects": [
+    "Projects": [
           {
             "id": 1,
             "background":"",
@@ -138,7 +138,7 @@
             "title":""
           }
     ],
-     "testimonials": [
+     "Testimonials": [
            {
             "id": 1,
             "profile":"https://i.postimg.cc/7h0yrP5d/Codi-Kader-pfp.jpg",
