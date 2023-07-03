@@ -41,7 +41,7 @@
         "id": 1,
        "year": 2023,
        "description": "I am currently studying coding at Life Choice Academy",
-       "place": "Life Choice Academy",
+       "place": "Life Choice Academy ",
        "type": "certificate",
        "certificate": ""
    },
@@ -49,7 +49,7 @@
        "id": 2,
        "year": "2020-2022",
        "description": "I went to university to study Biotechnology and dropped out",
-       "place": "Cape Peninsula University of Technology",
+       "place": "Cape Peninsula University of Technology ",
        "type": "Certificate",
        "certificate": ""
    },
@@ -57,7 +57,7 @@
        "id": 3,
        "year": 2019,
        "description": "I went to go learn at iStudent Academy and gotten a certificate for I.T Engineering 1 day workshop",
-       "place": "iStudent Academy",
+       "place": "iStudent Academy ",
        "type": "Certificate",
        "certificate": ""
    },
@@ -65,7 +65,7 @@
        "id": 4,
        "year": 2019,
        "description": "I matriculated from high school with a bachelor pass",
-       "place": "Spine Road High",
+       "place": "Spine Road High ",
        "type": "Certificate",
        "certificate": ""
    },
@@ -73,7 +73,7 @@
        "id": 5,
        "year": 2017,
        "description": "My homeroom teacher rewarded me with certificates for working hard every term",
-       "place": "Spine Road High",
+       "place": "Spine Road High ",
        "type": "Certificate",
        "certificate": ""
    },
@@ -81,7 +81,7 @@
        "id": 6,
        "year": 2015,
        "description": "During the start of my High School, I attended a Numeric Math Programme and was giving multiple certificates",
-       "place": "Spine Road High",
+       "place": "Spine Road High ",
        "type": "Certificate",
        "certificate": ""
    },
@@ -89,7 +89,7 @@
        "id": 7,
        "year": 2014,
        "description": "During Primary School i was given a chess player certificate",
-       "place": "Meadowridge Primary School",
+       "place": "Meadowridge Primary School ",
        "type": "Certificate",
        "certificate": ""
    }
