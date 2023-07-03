@@ -133,8 +133,8 @@
           {
             "id": 6,
             "background":"",
-            "githublink":"",
-            "netlifylink":"https:/https://github.com/Masood-B/vueE-Commerse.git/cute-platypus-6305dd.netlify.app",
+            "githublink":"https://github.com/Masood-B/vueE-Commerse.git",
+            "netlifylink":"https://cute-platypus-6305dd.netlify.app",
             "title":"Vue Recreate JS E-commerce Project"
           }
     ],
