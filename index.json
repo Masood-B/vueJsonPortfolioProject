@@ -17,21 +17,16 @@
 },
 {
     "id": 4,
-    "picture": "https://i.postimg.cc/HkpR7pss/icons8-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-sta.png",
-    "title": "Netlify"
-},
-{
-    "id": 5,
     "picture": "https://i.postimg.cc/d32NLfby/icons8-bootstrap-144.png",
     "title": "Bootstrap"
 },
 {
-    "id": 6,
+    "id": 5,
     "picture": "https://i.postimg.cc/NjMbcLjT/icons8-javascript-144.png",
     "title": "JavaScript"
 },
 {
-    "id": 7,
+    "id": 6,
     "picture": "https://i.postimg.cc/V6zWwQ9B/icons8-vue-js-240.png",
     "title": "Vue.js"
 }
