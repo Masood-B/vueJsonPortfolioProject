@@ -3,32 +3,44 @@
 {
     "id": 1,
     "picture": "https://i.postimg.cc/xdjQYvb5/icons8-html5-100.png",
-    "title": "HTLM5"
+    "title": "HTLM5",
+    "level": "Expert",
+    "understanding": "It was my first time learning html and i didnt know what to do but as time passed by, I gotten way better at using it."
 },
 {
     "id": 2,
     "picture": "https://i.postimg.cc/76fyJq9T/icons8-css3-100.png",
-    "title": "CSS3"
+    "title": "CSS3",
+    "level": "Advanced Beginner",
+    "understanding": "I find that styling is quite hard for me but i'm still learning to improve myself into mastering it."
 },
 {
     "id": 3,
     "picture": "https://i.postimg.cc/c1tSs46p/icons8-github-100.png",
-    "title": "Github"
+    "title": "Github",
+    "level": "Proficient",
+    "understanding": "I've gotten a hand with deploying, retrieving and editing my own work, cant wait to collab with people to help work on there projects."
 },
 {
     "id": 4,
     "picture": "https://i.postimg.cc/d32NLfby/icons8-bootstrap-144.png",
-    "title": "Bootstrap"
+    "title": "Bootstrap",
+    "level": "Competent",
+    "understanding": "Using bootstrap makes my work little easier and im able to work at a faster rate with more time for me to be coding."
 },
 {
     "id": 5,
     "picture": "https://i.postimg.cc/NjMbcLjT/icons8-javascript-144.png",
-    "title": "JavaScript"
+    "title": "JavaScript",
+    "level": "Proficient",
+    "understanding": "I found this very interesting, learning to use different methods to work with, im still polishing my knowledge more since there will be new things that i can learn."
 },
 {
     "id": 6,
     "picture": "https://i.postimg.cc/V6zWwQ9B/icons8-vue-js-240.png",
-    "title": "Vue.js"
+    "title": "Vue.js",
+    "level": "Novice",
+    "Understanding": "vue is quite new to me, and its not like the other modules, but with practice ill pull through."
 }
 ],
 "Education": [
